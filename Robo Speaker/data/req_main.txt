@@ -1,0 +1,4 @@
+gtts
+or
+pyttsx3
+play_sound

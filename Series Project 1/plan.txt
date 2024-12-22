@@ -1,0 +1,5 @@
+Plan Is Very Sime :
+    Allow User To Set The Numbers Of Dot
+    Allow User To Randomly Rool A Dice
+    Tip:
+        Use Ai For Better User Experiance

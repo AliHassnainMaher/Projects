@@ -1,0 +1,103 @@
+Pikachu: Electric type, Ash's main Pokémon, Yellow color, Evolves from Pichu, Evolves into Raichu
+Charizard: Fire/Flying type, Final form of Charmander, Orange color, Breathes fire, Has a Mega Evolution
+Bulbasaur: Grass/Poison type, Starter Pokémon, Green color, Has a plant bulb on its back, Evolves into Ivysaur
+Squirtle: Water type, Starter Pokémon, Blue color, Turtle-like appearance, Evolves into Wartortle
+Jigglypuff: Normal/Fairy type, Known for singing, Pink color, Can put others to sleep, Evolves from Igglybuff
+Meowth: Normal type, Team Rocket's Pokémon, Cat-like appearance, Can talk, Evolves into Persian
+Psyduck: Water type, Always has a headache, Yellow color, Duck-like appearance, Evolves into Golduck
+Snorlax: Normal type, Known for sleeping, Large and heavy, Blue-green color, Evolves from Munchlax
+Gengar: Ghost/Poison type, Shadow Pokémon, Purple color, Evolves from Haunter, Has a Mega Evolution
+Eevee: Normal type, Multiple evolutions, Brown color, Fox-like appearance, Evolves into various forms
+Mewtwo: Psychic type, Legendary Pokémon, Clone of Mew, Gray color, Has a Mega Evolution
+Lugia: Psychic/Flying type, Legendary Pokémon, Guardian of the seas, White color, Appears in Pokémon Silver
+Ho-oh: Fire/Flying type, Legendary Pokémon, Rainbow Pokémon, Red color, Appears in Pokémon Gold
+Celebi: Psychic/Grass type, Mythical Pokémon, Time travel abilities, Green color, Appears in Pokémon Crystal
+Blaziken: Fire/Fighting type, Final form of Torchic, Red color, Can learn Blaze Kick, Has a Mega Evolution
+Mudkip: Water type, Starter Pokémon, Blue color, Mud fish Pokémon, Evolves into Marshtomp
+Gardevoir: Psychic/Fairy type, Elegant appearance, White color, Evolves from Kirlia, Has a Mega Evolution
+Lucario: Fighting/Steel type, Aura Pokémon, Blue color, Evolves from Riolu, Has a Mega Evolution
+Garchomp: Dragon/Ground type, Final form of Gible, Blue color, Shark-like appearance, Has a Mega Evolution
+Greninja: Water/Dark type, Final form of Froakie, Ninja-like appearance, Blue color, Has a Battle Bond form
+Sylveon: Fairy type, Evolution of Eevee, Pink color, Ribbon-like feelers, Known for its cuteness
+Decidueye: Grass/Ghost type, Final form of Rowlet, Archer Pokémon, Green color, Can learn Spirit Shackle
+Incineroar: Fire/Dark type, Final form of Litten, Wrestler Pokémon, Red color, Can learn Darkest Lariat
+Zeraora: Electric type, Mythical Pokémon, Yellow color, Fast and agile, Known for its speed
+Zacian: Fairy/Steel type, Legendary Pokémon, Sword Pokémon, Blue color, Has a crowned form
+Dragonite: Dragon/Flying type, Final form of Dratini, Orange color, Dragon Pokémon, Can learn Hyper Beam
+Mew: Psychic type, Mythical Pokémon, Ancestor of all Pokémon, Pink color, Can learn any move
+Typhlosion: Fire type, Final form of Cyndaquil, Volcano Pokémon, Yellow color, Can learn Eruption
+Feraligatr: Water type, Final form of Totodile, Big Jaw Pokémon, Blue color, Can learn Hydro Pump
+Togepi: Fairy type, Baby Pokémon, Egg Pokémon, White color, Evolves into Togetic
+Ampharos: Electric type, Final form of Mareep, Light Pokémon, Yellow color, Has a Mega Evolution
+Espeon: Psychic type, Evolution of Eevee, Sun Pokémon, Purple color, Known for its psychic abilities
+Umbreon: Dark type, Evolution of Eevee, Moonlight Pokémon, Black color, Known for its stealth
+Scizor: Bug/Steel type, Evolution of Scyther, Pincer Pokémon, Red color, Has a Mega Evolution
+Heracross: Bug/Fighting type, Single form Pokémon, Horn Pokémon, Blue color, Has a Mega Evolution
+Tyranitar: Rock/Dark type, Final form of Larvitar, Armor Pokémon, Green color, Has a Mega Evolution
+Sceptile: Grass type, Final form of Treecko, Forest Pokémon, Green color, Has a Mega Evolution
+Swampert: Water/Ground type, Final form of Mudkip, Mud Fish Pokémon, Blue color, Has a Mega Evolution
+Aggron: Steel/Rock type, Final form of Aron, Iron Armor Pokémon, Gray color, Has a Mega Evolution
+Flygon: Ground/Dragon type, Final form of Trapinch, Mystic Pokémon, Green color, Known for its wings
+Metagross: Steel/Psychic type, Final form of Beldum, Iron Leg Pokémon, Blue color, Has a Mega Evolution
+Latias: Dragon/Psychic type, Legendary Pokémon, Eon Pokémon, Red color, Has a Mega Evolution
+Latios: Dragon/Psychic type, Legendary Pokémon, Eon Pokémon, Blue color, Has a Mega Evolution
+Rayquaza: Dragon/Flying type, Legendary Pokémon, Sky High Pokémon, Green color, Has a Mega Evolution
+Jirachi: Steel/Psychic type, Mythical Pokémon, Wish Pokémon, Yellow color, Can grant wishes
+Deoxys: Psychic type, Mythical Pokémon, DNA Pokémon, Red color, Has multiple forms
+Torterra: Grass/Ground type, Final form of Turtwig, Continent Pokémon, Green color, Has a tree on its back
+Infernape: Fire/Fighting type, Final form of Chimchar, Flame Pokémon, Orange color, Can learn Flare Blitz
+Empoleon: Water/Steel type, Final form of Piplup, Emperor Pokémon, Blue color, Can learn Hydro Cannon
+Luxray: Electric type, Final form of Shinx, Gleam Eyes Pokémon, Blue color, Known for its x-ray vision
+Roserade: Grass/Poison type, Final form of Budew, Bouquet Pokémon, Green color, Can learn Petal Dance
+Weavile: Dark/Ice type, Evolution of Sneasel, Sharp Claw Pokémon, Black color, Known for its speed
+Electivire: Electric type, Final form of Elekid, Thunderbolt Pokémon, Yellow color, Can learn Thunder Punch
+Magmortar: Fire type, Final form of Magby, Blast Pokémon, Red color, Can learn Fire Blast
+Togekiss: Fairy/Flying type, Final form of Togepi, Jubilee Pokémon, White color, Known for its grace
+Leafeon: Grass type, Evolution of Eevee, Verdant Pokémon, Green color, Known for its leaf-like tail
+Glaceon: Ice type, Evolution of Eevee, Fresh Snow Pokémon, Blue color, Known for its icy fur
+Gliscor: Ground/Flying type, Evolution of Gligar, Fang Scorpion Pokémon, Purple color, Known for its agility
+Mamoswine: Ice/Ground type, Final form of Swinub, Twin Tusk Pokémon, Brown color, Known for its tusks
+Porygon-Z: Normal type, Final form of Porygon, Virtual Pokémon, Pink color, Known for its digital nature
+Gallade: Psychic/Fighting type, Evolution of Kirlia, Blade Pokémon, White color, Has a Mega Evolution
+Dusknoir: Ghost type, Final form of Duskull, Gripper Pokémon, Black color, Known for its antenna
+Froslass: Ice/Ghost type, Evolution of Snorunt, Snow Land Pokémon, White color, Known for its icy breath
+Serperior: Grass type, Final form of Snivy, Regal Pokémon, Green color, Known for its speed
+Emboar: Fire/Fighting type, Final form of Tepig, Mega Fire Pig Pokémon, Red color, Known for its strength
+Samurott: Water type, Final form of Oshawott, Formidable Pokémon, Blue color, Known for its shell blade
+Zoroark: Dark type, Evolution of Zorua, Illusion Fox Pokémon, Gray color, Known for its illusions
+Haxorus: Dragon type, Final form of Axew, Axe Jaw Pokémon, Green color, Known for its axe-like tusks
+Braviary: Normal/Flying type, Evolution of Rufflet, Valiant Pokémon, Red color, Known for its bravery
+Hydreigon: Dark/Dragon type, Final form of Deino, Brutal Pokémon, Blue color, Known for its three heads
+Volcarona: Bug/Fire type, Evolution of Larvesta, Sun Pokémon, Red color, Known for its fiery scales
+Genesect: Bug/Steel type, Mythical Pokémon, Paleozoic Pokémon, Purple color, Known for its cannon
+Chesnaught: Grass/Fighting type, Final form of Chespin, Spiny Armor Pokémon, Green color, Known for its armor
+Delphox: Fire/Psychic type, Final form of Fennekin, Fox Pokémon, Red color, Known for its wand
+Talonflame: Fire/Flying type, Final form of Fletchling, Scorching Pokémon, Red color, Known for its speed
+Aegislash: Steel/Ghost type, Final form of Honedge, Royal Sword Pokémon, Gray color, Known for its shield
+Hawlucha: Fighting/Flying type, Single form Pokémon, Wrestling Pokémon, Green color, Known for its moves
+Goodra: Dragon type, Final form of Goomy, Dragon Pokémon, Purple color, Known for its gooey body
+Noivern: Flying/Dragon type, Final form of Noibat, Sound Wave Pokémon, Purple color, Known for its ears
+Zygarde: Dragon/Ground type, Legendary Pokémon, Order Pokémon, Green color, Has multiple forms
+Primarina: Water/Fairy type, Final form of Popplio, Soloist Pokémon, Blue color, Known for its singing
+Toucannon: Normal/Flying type, Final form of Pikipek, Cannon Pokémon, Black color, Known for its beak
+Vikavolt: Bug/Electric type, Final form of Grubbin, Stag Beetle Pokémon, Blue color, Known for its jaws
+Lycanroc: Rock type, Evolution of Rockruff, Wolf Pokémon, Brown color, Has multiple forms
+Wishiwashi: Water type, Single form Pokémon, Small Fry Pokémon, Blue color, Has a schooling form
+Mimikyu: Ghost/Fairy type, Single form Pokémon, Disguise Pokémon, Yellow color, Known for its disguise
+Kommo-o: Dragon/Fighting type, Final form of Jangmo-o, Scaly Pokémon, Gray color, Known for its scales
+Tapu Koko: Electric/Fairy type, Legendary Pokémon, Land Spirit Pokémon, Yellow color, Guardian of Melemele Island
+Tapu Lele: Psychic/Fairy type, Legendary Pokémon, Land Spirit Pokémon, Pink color, Guardian of Akala Island
+Tapu Bulu: Grass/Fairy type, Legendary Pokémon, Land Spirit Pokémon, Red color, Guardian of Ula'ula Island
+Tapu Fini: Water/Fairy type, Legendary Pokémon, Land Spirit Pokémon, Blue color, Guardian of Poni Island
+Solgaleo: Psychic/Steel type, Legendary Pokémon, Sunne Pokémon, White color, Known for its radiant body
+Lunala: Psychic/Ghost type, Legendary Pokémon, Moone Pokémon, Purple color, Known for its wings
+Nihilego: Rock/Poison type, Ultra Beast, Parasite Pokémon, White color, Known for its jellyfish-like appearance
+Buzzwole: Bug/Fighting type, Ultra Beast, Swollen Pokémon, Red color, Known for its muscles
+Pheromosa: Bug/Fighting type, Ultra Beast, Lissome Pokémon, White color, Known for its speed
+Xurkitree: Electric type, Ultra Beast, Glowing Pokémon, Black color, Known for its wires
+Celesteela: Steel/Flying type, Ultra Beast, Launch Pokémon, Gray color, Known for its rocket-like appearance
+Kartana: Grass/Steel type, Ultra Beast, Drawn Sword Pokémon, White color, Known for its sharpness
+Guzzlord: Dark/Dragon type, Ultra Beast, Junkivore Pokémon, Black color, Known for its appetite
+Necrozma: Psychic type, Legendary Pokémon, Prism Pokémon, Black color, Has multiple forms
+Magearna: Steel/Fairy type, Mythical Pokémon, Artificial Pokémon, Gray color, Known for its Soul-Heart
+Marshadow: Fighting/Ghost type, Mythical Pokémon, Gloomdweller Pokémon, Gray color, Known for its shadowy body
